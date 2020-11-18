@@ -1,4 +1,4 @@
-// [START maps_marker_clustering]
+
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     zoom: 3,
@@ -12,27 +12,26 @@ function initMap() {
 
   // Add some markers to the map.
   // Note: The code uses the JavaScript Array.prototype.map() method to
-  // create an array of markers based on a given "locations" array.
+  // create an array of markers based on a given "countries" array.
   // The map() method here has nothing to do with the Google Maps API.
-  const markers = locations.map((location, i) => {
+    markers = countries.map((country, i) => {
     var marker = new google.maps.Marker({
-      position: location,
+      position: country, // it detects automatically the values of keys which named "lat" and "lng"
       label: labels[i % labels.length],
+      map: map   
     });
+    //Add a click event to each marker
     google.maps.event.addListener(marker, 'click', function(evt) {
-      infowindow.setContent(location.info);
+      infowindow.setContent(country.info);
       infowindow.open(map, marker);
     })
     return marker;
   });
-  // Add a marker clusterer to manage the markers.
-  new MarkerClusterer(map, markers, {
-    imagePath:
-      "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
-  });
+
 }
 
-const locations = [
+var markers;
+const countries = [
   { lat: -31.56391, lng: 147.154312, info: "marker 1" },
   { lat: -33.718234, lng: 150.363181, info: "marker 2" },
   { lat: -33.727111, lng: 150.371124, info: "marker 3" },
@@ -42,6 +41,3 @@ const locations = [
   { lat: -35.304724, lng: 148.662905, info: "marker 7" },
   { lat: -36.817685, lng: 175.699196, info: "marker 8" },
 ];
-
-
-// [END maps_marker_clustering]
