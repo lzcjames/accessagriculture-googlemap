@@ -6,31 +6,34 @@ function initMap() {
   });
   // Create an array of alphabetical characters used to label the markers.
   const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-  
-  // Create an info window
-  var infowindow = new google.maps.InfoWindow();
-
   // Add some markers to the map.
   // Note: The code uses the JavaScript Array.prototype.map() method to
   // create an array of markers based on a given "countries" array.
   // The map() method here has nothing to do with the Google Maps API.
-    markers = countries.map((country, i) => {
-    var marker = new google.maps.Marker({
+  markers = countries.map((country, i) => {
+    let marker = new google.maps.Marker({
       position: country, // it detects automatically the values of keys which named "lat" and "lng"
       label: labels[i % labels.length],
       map: map   
     });
+    // Create an info window
+    const infowindow = new google.maps.InfoWindow({
+      content: country.info
+    });
     //Add a click event to each marker
-    google.maps.event.addListener(marker, 'click', function(evt) {
-      infowindow.setContent(country.info);
+    marker.addListener("click", () => {
       infowindow.open(map, marker);
-    })
+    });
+
+    infowindows.push(infowindow); 
     return marker;
   });
 
 }
 
-var markers;
+let infowindows=[];
+let markers;
+
 const countries = [
   { lat: -31.56391, lng: 147.154312, info: "marker 1" },
   { lat: -33.718234, lng: 150.363181, info: "marker 2" },
@@ -41,3 +44,9 @@ const countries = [
   { lat: -35.304724, lng: 148.662905, info: "marker 7" },
   { lat: -36.817685, lng: 175.699196, info: "marker 8" },
 ];
+
+document.getElementById("test").addEventListener("click", function() {
+  for (var i=0;i<infowindows.length;i++) {
+    infowindows[i].open(map, markers[i]);
+  }
+});
