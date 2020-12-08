@@ -1,6 +1,6 @@
 
 function initMap() {
-  const map = new google.maps.Map(document.getElementById("map"), {
+  const map=new google.maps.Map(document.getElementById("map"), {
     zoom: 3,
     center: { lat: -28.024, lng: 140.887 },
   });
@@ -9,22 +9,26 @@ function initMap() {
   // Note: The code uses the JavaScript Array.prototype.map() method to
   // create an array of markers based on a given "countries" array.
   // The map() method here has nothing to do with the Google Maps API.
-  markers = countries.map((country, i) => {
-    let marker = new google.maps.Marker({
-      position: country, // it detects automatically the values of keys which named "lat" and "lng"
-      label: country["country"],
+  markers=countries.map((country, i) => {
+    let marker=new google.maps.Marker({
+      position: country, // It detects automatically the values of keys which named "lat" and "lng"
+      label: country["country"].charAt(0),
       map: map   
     });
     // Retrieve languages and links
-    let info='';
-    country["languages"].map((language) =>{
-      info+=`<button><a href=${language["link"]}>${language["name"]}</a></button> `;   
+    let info=`<h3>${country["country"]}</h3>`;
+    country["languages"].map((language) =>{ 
+      info+=`<button><a href=${language["link"]}>${language["name"]}</a></button> `; 
+      if(!Array.isArray(countrylist[language["name"]])){
+        countrylist[language["name"]]=[];
+      }
+      countrylist[language["name"]].push(i);  
     });
     // Create an info window
-    const infowindow = new google.maps.InfoWindow({
+    const infowindow=new google.maps.InfoWindow({
       content: info
     });
-    //Add a click event to each marker
+    // Add a click event to each marker
     marker.addListener("click", () => {
       infowindow.open(map, marker);
     });
@@ -32,19 +36,32 @@ function initMap() {
     infowindows.push(infowindow); 
     return marker;
   });
-
+  showList();
+  console.log(countrylist);
 }
 
+function showList(){
+  for (let k of Object.keys(countrylist)) {
+    li+=`<li id=${k} class=listItem>${k}</li>`;
+  }
+
+  ul.innerHTML=li;
+  let elems=document.getElementsByClassName("listItem");
+  for(i=0; i<elems.length; i++) {
+    elems[i].addEventListener("click", function() {
+      countrylist[this.id].forEach(countryid => infowindows[countryid].open(map, markers[countryid]));
+    });
+  }
+}
+
+let countrylist=new Object();
 let infowindows=[];
 let markers;
+let ul=document.createElement('ul');
+let li='';
 
-
-document.getElementById("test").addEventListener("click", function() {
-  for (var i=0;i<infowindows.length;i++) {
-    infowindows[i].open(map, markers[i]);
-  }
-});
-
+ul.classList.add("list-languages");
+document.body.appendChild(ul);
 
 const countries = [
   {
