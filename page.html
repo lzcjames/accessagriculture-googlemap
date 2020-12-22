@@ -10,22 +10,90 @@
     ></script>
    <!--  <link rel="stylesheet" type="text/css" href="./style.css" /> -->
     <style type="text/css">
-    /* Always set the map height explicitly to define the size of the div
-    * element that contains the map. */
-    #map {
-      height: 100%;
-    }
+          #map-listlanguages {
+              overflow: hidden;
+              border: 2px solid #333;
+              padding: 10px;
+          }
 
-    /* Optional: Makes the sample page fill the window. */
-    html,
-    body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-    }
+          #map-container {
+              float: left;
+              width: 65%;
+              background-color:gray;
+              margin-right:2%;
+              height: 600px;
+          }
+
+          #map{
+              width: 100%;
+              height: 100%;
+          }
+
+          #listlanguages {
+              float: left;
+              width: 30%;
+              padding-left:3%;
+              counter-reset: li; /* Initiate a counter */
+              list-style: none;
+              font: 15px 'trebuchet MS', 'lucida sans';
+              padding: 0;
+              margin-bottom: 4em;
+              text-shadow: 0 1px 0 rgba(255,255,255,.5);
+          }
+
+          #listlanguages li{
+            position: relative;
+            display: block;
+            padding: .4em .4em .4em 2em;
+            margin: .5em 0;
+            background: #ddd;
+            color: #444;
+            text-decoration: none;
+            border-radius: .3em;
+            transition: all .3s ease-out;
+          }
+
+          #listlanguages li:hover{
+            background: #eee;
+          }
+
+          #listlanguages li:hover:before{
+            transform: rotate(360deg);
+          }
+
+          #listlanguages li:before{
+            content: counter(li);
+            counter-increment: li;
+            position: absolute;
+            left: -1em;
+            top: 50%;
+            margin-top: -1.3em;
+            background: #b4d037;
+            height: 2em;
+            width: 2em;
+            line-height: 2em;
+            border: .3em solid #fff;
+            text-align: center;
+            font-weight: bold;
+            border-radius: 2em;
+            transition: all .3s ease-out;
+          }
+
+          /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+          @media screen and (max-width: 800px) {
+            #map-container, #listlanguages {   
+              width: 100%;
+              padding: 0;
+              margin: 0;
+            }
+          }
     </style>
   </head>
   <body>
-    <div id="map"></div>
+    <div id="map-listlanguages">
+      <div id="map-container">
+        <div id="map"></div>
+      </div>
+    </div>
   </body>
 </html>

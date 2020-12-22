@@ -16,9 +16,9 @@ function initMap() {
       map: map   
     });
     // Retrieve languages and links
-    let info=`<h3>${country["country"]}</h3>`;
+    let info=`<h4>${country["country"]}</h4>`;
     country["languages"].map((language) =>{ 
-      info+=`<button><a href=${language["link"]}>${language["name"]}</a></button> `; 
+      info+=`<button class="btn-link"><a href=${language["link"]}>${language["name"]}</a></button> `; 
       if(!Array.isArray(countrylist[language["name"]])){
         countrylist[language["name"]]=[];
       }
@@ -60,8 +60,8 @@ let markers;
 let ul=document.createElement('ul');
 let li='';
 
-ul.classList.add("list-languages");
-document.body.appendChild(ul);
+ul.id="listlanguages";
+document.getElementById("map-listlanguages").appendChild(ul);
 
 const countries = [
   {
