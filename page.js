@@ -15,8 +15,10 @@ function initMap() {
       label: country["country"].charAt(0),
       map: map   
     });
+
     // Retrieve languages and links
     let info=`<h4>${country["country"]}</h4>`;
+
     country["languages"].map((language) =>{ 
       info+=`<button class="btn-link"><a href=${language["link"]}>${language["name"]}</a></button> `; 
       if(!Array.isArray(countrylist[language["name"]])){
@@ -24,10 +26,12 @@ function initMap() {
       }
       countrylist[language["name"]].push(i);  
     });
+
     // Create an info window
     const infowindow=new google.maps.InfoWindow({
       content: info
     });
+
     // Add a click event to each marker
     marker.addListener("click", () => {
       infowindow.open(map, marker);
@@ -36,8 +40,8 @@ function initMap() {
     infowindows.push(infowindow); 
     return marker;
   });
+
   showList();
-  console.log(countrylist);
 }
 
 function showList(){
@@ -47,10 +51,18 @@ function showList(){
 
   ul.innerHTML=li;
   let elems=document.getElementsByClassName("listItem");
+
   for(i=0; i<elems.length; i++) {
     elems[i].addEventListener("click", function() {
+      closeAllInfoWindows();
       countrylist[this.id].forEach(countryid => infowindows[countryid].open(map, markers[countryid]));
     });
+  }
+}
+
+function closeAllInfoWindows() {
+  for(let win of infowindows) {
+    win.close();
   }
 }
 
