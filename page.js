@@ -5,6 +5,9 @@ async function initMap() {
     center: { lat: -28.024, lng: 140.887 },
   });
 
+  // Create an info window
+  const infowindow = new google.maps.InfoWindow();
+  
   // Add some markers to the map.
   // Note: The code uses the JavaScript Array.prototype.map() method to
   // create an array of markers based on a given "countries" array.
@@ -29,18 +32,12 @@ async function initMap() {
       countrylist[language["name"]].push(i);  
     });
 
-    // Create an info window
-    const infowindow = new google.maps.InfoWindow({
-      content: info
-    });
-
     // Add a click event to each marker
     marker.addListener("click", () => {
-      closeAllInfoWindows();
+      infowindow.setContent(info);
       infowindow.open(map, marker);
     });
 
-    infowindows.push(infowindow); 
     return marker;
   });
   showList();
@@ -48,7 +45,7 @@ async function initMap() {
 
 function showList(){
   for (let k of Object.keys(countrylist).sort()) {
-    li += `<li id=${k} class=listItem><a href="#" onclick="return false">${k}</a></li>`;
+    li += `<li id=${k} class=listItem><a href="#" onclick="return false" style="text-decoration:none;">${k}</a></li>`;
   }
 
   ul.innerHTML = li;
@@ -56,8 +53,6 @@ function showList(){
 
   for(i = 0; i<elems.length; i++) {
     elems[i].addEventListener("click", function() {
-      //closeAllInfoWindows();
-      //countrylist[this.id].forEach(countryid => infowindows[countryid].open(map, markers[countryid]));
       setAllMarkersByDefault();
       countrylist[this.id].forEach(countryid => markers[countryid].setIcon("http://maps.google.com/mapfiles/ms/micons/blue-pushpin.png")); 
     });
@@ -65,7 +60,7 @@ function showList(){
 }
 
 function searchList() {
-    var input, filter, ul, li, a, i, txtValue;
+    let input, filter, ul, li, a, i, txtValue;
     input = document.getElementById("searchLanguage");
     filter = input.value.toUpperCase();
     ul = document.getElementById("listlanguages");
@@ -154,12 +149,6 @@ async function readFile(path) {
     return countriesJson;
 }
 
-function closeAllInfoWindows() {
-  for(let win of infowindows) {
-    win.close();
-  }
-}
-
 function setAllMarkersByDefault() {
   for(let marker of markers) {
     marker.setIcon();
@@ -167,7 +156,6 @@ function setAllMarkersByDefault() {
 }
 
 let countrylist = new Object();
-let infowindows = [];
 let markers;
 let ul = document.createElement('ul');
 let li = '';
