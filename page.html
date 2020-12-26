@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Google Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script src="./page.js" defer></script>
@@ -12,34 +13,41 @@
    <!--  <link rel="stylesheet" type="text/css" href="./style.css" /> -->
     <style type="text/css">
           #map-listlanguages {
-              overflow: hidden;
-              border: 2px solid #333;
-              padding: 10px;
+            overflow: hidden;
+            border: 2px solid #333;
+            padding: 10px;
           }
 
           #map-container {
-              float: left;
-              width: 65%;
-              background-color:gray;
-              margin-right:2%;
-              height: 600px;
+            float: left;
+            margin-right:1%;
+            width: 65%;
+            height: 600px;
           }
 
           #map{
-              width: 100%;
-              height: 100%;
+            width: 100%;
+            height: 100%;
+          }
+
+          #listlanguages-container{
+            float: left;
+            overflow-y: auto;
+            overflow-x: hidden;
+            width: 34%;
+            height: 600px;
           }
 
           #listlanguages {
-              float: left;
-              width: 30%;
-              padding-left:3%;
-              counter-reset: li; /* Initiate a counter */
-              list-style: none;
-              font: 15px 'trebuchet MS', 'lucida sans';
-              padding: 0;
-              margin-bottom: 4em;
-              text-shadow: 0 1px 0 rgba(255,255,255,.5);
+            float: left;
+            width: 100%;
+            padding-left:3%;
+            counter-reset: li; /* Initiate a counter */
+            list-style: none;
+            font: 15px 'trebuchet MS', 'lucida sans';
+            padding: 0;
+            margin-bottom: 4em;
+            text-shadow: 0 1px 0 rgba(255,255,255,.5);
           }
 
           #listlanguages li{
@@ -66,7 +74,7 @@
             content: counter(li);
             counter-increment: li;
             position: absolute;
-            left: -1em;
+            left: -0.8em;
             top: 50%;
             margin-top: -1.3em;
             background: #b4d037;
@@ -82,10 +90,24 @@
 
           /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
           @media screen and (max-width: 800px) {
-            #map-container, #listlanguages {   
+            #map-container, #listlanguages-container {   
               width: 100%;
               padding: 0;
               margin: 0;
+            }
+            #listlanguages li:before{
+              left: -1.2em;
+            }
+          }
+
+          @media only screen and (max-width: 500px) {
+            #map-container, #listlanguages-container {   
+              width: 100%;
+              padding: 0;
+              margin: 0;
+            }
+            #listlanguages li:before{
+              left: -0.9em;
             }
           }
     </style>
@@ -94,6 +116,9 @@
     <div id="map-listlanguages">
       <div id="map-container">
         <div id="map"></div>
+      </div>
+      <div id="listlanguages-container">
+        <!-- dynamic country list here -->
       </div>
     </div>
   </body>
