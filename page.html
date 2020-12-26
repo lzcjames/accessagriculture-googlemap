@@ -93,6 +93,24 @@
             transition: all .3s ease-out;
           }
 
+          /* custom infowindow of google map*/
+          .gm-style-iw.gm-style-iw-c{
+            padding: 12px !important;
+            opacity:0.7;
+          }
+
+          .gm-style-iw.gm-style-iw-c:hover{
+            opacity:1;
+          }
+
+          .gm-style-iw-t::after{
+            opacity:1;
+          }
+          
+          .gm-style-iw-d{
+            overflow: hidden !important;
+          }
+          
           /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
           @media screen and (max-width: 800px) {
             #map-container, #listlanguages-container {   
