@@ -30,6 +30,11 @@
             height: 100%;
           }
 
+          #searchLanguage{
+            width: 100%;
+            padding-left:3%;
+          }
+
           #listlanguages-container{
             float: left;
             overflow-y: auto;
@@ -118,6 +123,7 @@
         <div id="map"></div>
       </div>
       <div id="listlanguages-container">
+        <input type="text" id="searchLanguage" onkeyup="searchList()" placeholder="Search for languages..">
         <!-- dynamic country list here -->
       </div>
     </div>

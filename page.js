@@ -47,8 +47,8 @@ async function initMap() {
 }
 
 function showList(){
-  for (let k of Object.keys(countrylist)) {
-    li += `<li id=${k} class=listItem>${k}</li>`;
+  for (let k of Object.keys(countrylist).sort()) {
+    li += `<li id=${k} class=listItem><a href="#" onclick="return false">${k}</a></li>`;
   }
 
   ul.innerHTML = li;
@@ -62,6 +62,23 @@ function showList(){
       countrylist[this.id].forEach(countryid => markers[countryid].setIcon("http://maps.google.com/mapfiles/ms/micons/blue-pushpin.png")); 
     });
   }
+}
+
+function searchList() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("searchLanguage");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("listlanguages");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
 }
 
 /**
