@@ -21,8 +21,11 @@ async function initMap() {
       map: map   
     });
 
-    // Retrieve languages and links
-    let info = `<h4>${country["name"]}</h4>`;
+    // Retrieve languages, links and icons
+    let info = `<div id="infowindow-title">
+                  <h4>${country["name"]}</h4>
+                  <img src=${country["icon"]}></img>
+                </div>`;
 
     country["languages"].map((language) =>{ 
       info += `<button class="btn-link"><a href=${language["link"]}>${language["name"]}</a></button> `; 

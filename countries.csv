@@ -1,16 +1,16 @@
 name,lat,lng,code,icon,languages_name,languages_link
-Afghanistan,33.93911,67.709953,AF,,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
-Algeria,28.033886,1.659626,DZ,,French,https://www.accessagriculture.org/search/all/fr/
+Afghanistan,33.93911,67.709953,AF,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/320px-Flag_of_Afghanistan.svg.png,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
+Algeria,28.033886,1.659626,DZ,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/320px-Flag_of_Algeria.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Angola,-11.202692,17.873887,AO,,Portuguese,https://www.accessagriculture.org/search/all/pt/
-Argentina,-38.416097,-63.616672,AR,,Spanish,https://www.accessagriculture.org/search/all/es/
+Angola,-11.202692,17.873887,AO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/320px-Flag_of_Angola.svg.png,Portuguese,https://www.accessagriculture.org/search/all/pt/
+Argentina,-38.416097,-63.616672,AR,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-Bahamas,25.03428,-77.39628,BS,,English,https://www.accessagriculture.org/search/all/en/
-Bangladesh,23.684994,90.356331,BD,,Arabic,https://www.accessagriculture.org/search/all/ar/
+Bahamas,25.03428,-77.39628,BS,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/320px-Flag_of_the_Bahamas.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Bangladesh,23.684994,90.356331,BD,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/320px-Flag_of_Bangladesh.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Bangla,https://www.accessagriculture.org/search/all/bgl/
-Belize,17.189877,-88.49765,BZ,,English,https://www.accessagriculture.org/search/all/en/
+Belize,17.189877,-88.49765,BZ,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/320px-Flag_of_Belize.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Spanish,https://www.accessagriculture.org/search/all/es/
-Benin,9.30769,2.315834,BJ ,,French,https://www.accessagriculture.org/search/all/fr/
+Benin,9.30769,2.315834,BJ ,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/320px-Flag_of_Benin.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Adja,https://www.accessagriculture.org/search/all/adj/
 ,,,,,Bariba,https://www.accessagriculture.org/search/all/brb/
 ,,,,,Berba,https://www.accessagriculture.org/search/all/bba/
@@ -26,13 +26,13 @@ Benin,9.30769,2.315834,BJ ,,French,https://www.accessagriculture.org/search/all/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Yoruba,https://www.accessagriculture.org/search/all/yo/
 ,,,,,Zarma,https://www.accessagriculture.org/search/all/zrm/
-Bhutan,27.514162,90.433601,BT,,Nepali,https://www.accessagriculture.org/search/all/ne/
-Bolivia,-16.290154,-63.588653,BO,,Spanish,https://www.accessagriculture.org/search/all/es/
+Bhutan,27.514162,90.433601,BT,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/320px-Flag_of_Bhutan.svg.png,Nepali,https://www.accessagriculture.org/search/all/ne/
+Bolivia,-16.290154,-63.588653,BO,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Aymara,https://www.accessagriculture.org/search/all/ay/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-Botswana,-22.328474,24.684866,BW,,English,https://www.accessagriculture.org/search/all/en/
-Brazil,-14.235004,-51.92528,BR,,Portuguese,https://www.accessagriculture.org/search/all/pt/
-Burkina Faso,12.238333,-1.561593,BF,,French,https://www.accessagriculture.org/search/all/fr/
+Botswana,-22.328474,24.684866,BW,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/320px-Flag_of_Botswana.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Brazil,-14.235004,-51.92528,BR,https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png,Portuguese,https://www.accessagriculture.org/search/all/pt/
+Burkina Faso,12.238333,-1.561593,BF,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/320px-Flag_of_Burkina_Faso.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Berba,https://www.accessagriculture.org/search/all/bba/
 ,,,,,Bomu (Bobo),https://www.accessagriculture.org/search/all/bmu/
@@ -44,58 +44,58 @@ Burkina Faso,12.238333,-1.561593,BF,,French,https://www.accessagriculture.org/se
 ,,,,,Moor¨¦,https://www.accessagriculture.org/search/all/mre/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Sisaala,https://www.accessagriculture.org/search/all/ssl/
-Burundi,-3.373056,29.918886,BI,,French,https://www.accessagriculture.org/search/all/fr/
+Burundi,-3.373056,29.918886,BI,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/320px-Flag_of_Burundi.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Kiswahili ,https://www.accessagriculture.org/search/all/kwl/
 ,,,,,Kirundi,http://www.accessagriculture.org/search/all/rw/
-Cambodia,12.565679,104.990963,KH,,Khmer,https://www.accessagriculture.org/search/all/khm/
-Cameroon,7.369722,12.354722,CM,,English,https://www.accessagriculture.org/search/all/en/
+Cambodia,12.565679,104.990963,KH,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/320px-Flag_of_Cambodia.svg.png,Khmer,https://www.accessagriculture.org/search/all/khm/
+Cameroon,7.369722,12.354722,CM,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/320px-Flag_of_Cameroon.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Hausa,https://www.accessagriculture.org/search/all/ha/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Central African Republic,6.611111,20.939444,CF,,French,https://www.accessagriculture.org/search/all/fr/
+Central African Republic,6.611111,20.939444,CF,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/320px-Flag_of_the_Central_African_Republic.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Chad,15.454166,18.732207,TD,,French,https://www.accessagriculture.org/search/all/fr/
+Chad,15.454166,18.732207,TD,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/320px-Flag_of_Chad.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Chile,-35.675147,-71.542969,CL,,Spanish,https://www.accessagriculture.org/search/all/es/
+Chile,-35.675147,-71.542969,CL,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Aymara,https://www.accessagriculture.org/search/all/ay/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-China,35.86166,104.195397,CN,,Chinese,https://www.accessagriculture.org/search/all/zh-hans/
-Colombia,4.570868,-74.297333,CO,,Spanish,https://www.accessagriculture.org/search/all/es/
+China,35.86166,104.195397,CN,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/320px-Flag_of_the_People%27s_Republic_of_China.svg.png,Chinese,https://www.accessagriculture.org/search/all/zh-hans/
+Colombia,4.570868,-74.297333,CO,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-Congo,-0.228021,15.827659,CG,,French,https://www.accessagriculture.org/search/all/fr/
-Costa Rica,9.748917,-83.753428,CR,,Spanish,https://www.accessagriculture.org/search/all/es/
-Cuba,21.521757,-77.781167,CU,,Spanish,https://www.accessagriculture.org/search/all/es/
-Democratic Republic of Congo (DRC),-4.0335162,21.7500603,CD,,French,https://www.accessagriculture.org/search/all/fr/
+Congo,-0.228021,15.827659,CG,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/320px-Flag_of_the_Republic_of_the_Congo.svg.png,French,https://www.accessagriculture.org/search/all/fr/
+Costa Rica,9.748917,-83.753428,CR,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/320px-Flag_of_Costa_Rica.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Cuba,21.521757,-77.781167,CU,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/320px-Flag_of_Cuba.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Democratic Republic of Congo (DRC),-4.0335162,21.7500603,CD,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/320px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
 ,,,,,Lugbara,https://www.accessagriculture.org/search/all/lbr/
-Djibouti,11.825138,42.590275,DJ,,French,https://www.accessagriculture.org/search/all/fr/
+Djibouti,11.825138,42.590275,DJ,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/320px-Flag_of_Djibouti.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Afar,https://www.accessagriculture.org/search/all/aa/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Dominican Republic,18.735693,-70.162651,DO,,Spanish,https://www.accessagriculture.org/search/all/es/
-East Timor,-8.794744,126.1369154,TL,,English,https://www.accessagriculture.org/search/all/en/
+Dominican Republic,18.735693,-70.162651,DO,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/320px-Flag_of_the_Dominican_Republic.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+East Timor,-8.794744,126.1369154,TL,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/320px-Flag_of_East_Timor.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Indonesian,https://www.accessagriculture.org/search/all/id/
 ,,,,,Portuguese,https://www.accessagriculture.org/search/all/pt/
-Ecuador,-1.831239,-78.183406,EC,,Spanish,https://www.accessagriculture.org/search/all/es/
+Ecuador,-1.831239,-78.183406,EC,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-Egypt,26.820553,30.802498,EG,,Arabic,https://www.accessagriculture.org/search/all/ar/
-El Salvador,13.794185,-88.89653,SV,,Spanish,https://www.accessagriculture.org/search/all/es/
-Equatorial Guinea,1.650801,10.267895,GQ,,French,https://www.accessagriculture.org/search/all/fr/
+Egypt,26.820553,30.802498,EG,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/320px-Flag_of_Egypt.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+El Salvador,13.794185,-88.89653,SV,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/320px-Flag_of_El_Salvador.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Equatorial Guinea,1.650801,10.267895,GQ,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/320px-Flag_of_Equatorial_Guinea.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Portuguese,https://www.accessagriculture.org/search/all/pt/
 ,,,,,Spanish,https://www.accessagriculture.org/search/all/es/
-Eritrea,15.179384,39.782334,ER,,Afar,https://www.accessagriculture.org/search/all/aa/
+Eritrea,15.179384,39.782334,ER,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/320px-Flag_of_Eritrea.svg.png,Afar,https://www.accessagriculture.org/search/all/aa/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Ethiopia,9.145,40.489673,ET,,Afar,https://www.accessagriculture.org/search/all/aa/
+Ethiopia,9.145,40.489673,ET,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/320px-Flag_of_Ethiopia.svg.png,Afar,https://www.accessagriculture.org/search/all/aa/
 ,,,,,Amharic,https://www.accessagriculture.org/search/all/am/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Oromo,https://www.accessagriculture.org/search/all/om/
-Fiji,-16.578193,179.414413,FJ,,English,https://www.accessagriculture.org/search/all/en/
-Gabon,-0.803689,11.609444,GA,,French,https://www.accessagriculture.org/search/all/fr/
+Fiji,-16.578193,179.414413,FJ,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/320px-Flag_of_Fiji.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Gabon,-0.803689,11.609444,GA,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/320px-Flag_of_Gabon.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
-Gambia,13.443182,-15.310139,GM,,English,https://www.accessagriculture.org/search/all/en/
+Gambia,13.443182,-15.310139,GM,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/320px-Flag_of_The_Gambia.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Wolof,https://www.accessagriculture.org/search/all/wo/
-Ghana,7.946527,-1.023194,GH,,English,https://www.accessagriculture.org/search/all/en/
+Ghana,7.946527,-1.023194,GH,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/320px-Flag_of_Ghana.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Buli,https://www.accessagriculture.org/search/all/bli/
 ,,,,,Dagaari,https://www.accessagriculture.org/search/all/dgr/
 ,,,,,Dagbani,https://www.accessagriculture.org/search/all/dbn/
@@ -109,19 +109,19 @@ Ghana,7.946527,-1.023194,GH,,English,https://www.accessagriculture.org/search/al
 ,,,,,Sisaala,https://www.accessagriculture.org/search/all/ssl/
 ,,,,,Twi,https://www.accessagriculture.org/search/all/tw/
 ,,,,,Zarma,https://www.accessagriculture.org/search/all/zrm/
-Guatemala,15.783471,-90.230759,GT,,Spanish,https://www.accessagriculture.org/search/all/es/
-Guinea,9.945587,-9.696645,GN,,French,https://www.accessagriculture.org/search/all/fr/
+Guatemala,15.783471,-90.230759,GT,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/320px-Flag_of_Guatemala.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Guinea,9.945587,-9.696645,GN,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/320px-Flag_of_Guinea.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Kpelle,https://www.accessagriculture.org/search/all/kpe/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Guinea-Bissau,11.803749,-15.180413,GW,,French,https://www.accessagriculture.org/search/all/fr/
+Guinea-Bissau,11.803749,-15.180413,GW,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/320px-Flag_of_Guinea-Bissau.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Portuguese,https://www.accessagriculture.org/search/all/pt/
-Guyana,4.860416,-58.93018,GY,,English,https://www.accessagriculture.org/search/all/en/
-Haiti,18.971187,-72.285215,HT,,French,https://www.accessagriculture.org/search/all/fr/
-Honduras,15.199999,-86.241905,HN,,Spanish,https://www.accessagriculture.org/search/all/es/
-India,20.593684,78.96288,IN,,Arabic,https://www.accessagriculture.org/search/all/ar/
+Guyana,4.860416,-58.93018,GY,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/320px-Flag_of_Guyana.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Haiti,18.971187,-72.285215,HT,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/320px-Flag_of_Haiti.svg.png,French,https://www.accessagriculture.org/search/all/fr/
+Honduras,15.199999,-86.241905,HN,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+India,20.593684,78.96288,IN,https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Bangla,https://www.accessagriculture.org/search/all/bgl/
 ,,,,,Hindi,https://www.accessagriculture.org/search/all/hi/
 ,,,,,Kannada,https://www.accessagriculture.org/search/all/kn/
@@ -130,11 +130,11 @@ India,20.593684,78.96288,IN,,Arabic,https://www.accessagriculture.org/search/all
 ,,,,,Tamil ,http://www.accessagriculture.org/search/all/ta/
 ,,,,,Telegu ,https://www.accessagriculture.org/search/all/te/
 ,,,,,Urdu,https://www.accessagriculture.org/search/all/ur/
-Indonesia,-0.789275,113.921327,ID,,Arabic,https://www.accessagriculture.org/search/all/ar/
+Indonesia,-0.789275,113.921327,ID,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Indonesian,https://www.accessagriculture.org/search/all/id/
-Iran,32.427908,53.688046,IR,,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
-Iraq,33.223191,43.679291,IQ,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Ivory Coast,7.5455112,-5.547545,CI,,French,https://www.accessagriculture.org/search/all/fr/
+Iran,32.427908,53.688046,IR,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/320px-Flag_of_Iran.svg.png,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
+Iraq,33.223191,43.679291,IQ,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/320px-Flag_of_Iraq.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Ivory Coast,7.5455112,-5.547545,CI,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/320px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Adioukrou,https://www.accessagriculture.org/search/all/adi/
 ,,,,,Atti¨¦,http://www.accessagriculture.org/search/all/att
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
@@ -144,9 +144,9 @@ Ivory Coast,7.5455112,-5.547545,CI,,French,https://www.accessagriculture.org/sea
 ,,,,,Hausa,https://www.accessagriculture.org/search/all/ha/
 ,,,,,Lobiri,https://www.accessagriculture.org/search/all/lbi/
 ,,,,,Moor¨¦,https://www.accessagriculture.org/search/all/mre/
-Jamaica,18.109581,-77.297508,JM,,English,https://www.accessagriculture.org/search/all/en/
-Jordan,30.585164,36.238414,JO,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Kenya,-0.023559,37.906193,KE,,English,https://www.accessagriculture.org/search/all/en/
+Jamaica,18.109581,-77.297508,JM,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/320px-Flag_of_Jamaica.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Jordan,30.585164,36.238414,JO,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Kenya,-0.023559,37.906193,KE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/320px-Flag_of_Kenya.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Ateso,https://www.accessagriculture.org/search/all/ats/
 ,,,,,Dholuo,https://www.accessagriculture.org/search/all/dho/
@@ -157,124 +157,124 @@ Kenya,-0.023559,37.906193,KE,,English,https://www.accessagriculture.org/search/a
 ,,,,,Luhya,https://www.accessagriculture.org/search/all/luh/
 ,,,,,Luo (Uganda),https://www.accessagriculture.org/search/all/luo/
 ,,,,,Samburu,https://www.accessagriculture.org/search/all/saq/
-Laos,19.85627,102.495496,LA,,Lao,https://www.accessagriculture.org/search/all/lo/
-Lebanon,33.854721,35.862285,LB,,French,https://www.accessagriculture.org/search/all/fr/
+Laos,19.85627,102.495496,LA,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/320px-Flag_of_Laos.svg.png,Lao,https://www.accessagriculture.org/search/all/lo/
+Lebanon,33.854721,35.862285,LB,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Lesotho,-29.609988,28.233608,LS,,English,https://www.accessagriculture.org/search/all/en/
-Liberia,6.428055,-9.429499,LR,,English,https://www.accessagriculture.org/search/all/en/
+Lesotho,-29.609988,28.233608,LS,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/320px-Flag_of_Lesotho.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Liberia,6.428055,-9.429499,LR,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/320px-Flag_of_Liberia.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Bassa,https://www.accessagriculture.org/search/all/bsq/
 ,,,,,Kpelle,https://www.accessagriculture.org/search/all/kpe/
-Libya,26.3351,17.228331,LY,,French,https://www.accessagriculture.org/search/all/fr/
+Libya,26.3351,17.228331,LY,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/320px-Flag_of_Libya.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Madagascar,-18.766947,46.869107,MG,,French,https://www.accessagriculture.org/search/all/fr/
+Madagascar,-18.766947,46.869107,MG,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/320px-Flag_of_Madagascar.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Malagasy,https://www.accessagriculture.org/search/all/mlg/
-Malawi,-13.254308,34.301525,MW,,English,https://www.accessagriculture.org/search/all/en/
+Malawi,-13.254308,34.301525,MW,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/320px-Flag_of_Malawi.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Chichewa,https://www.accessagriculture.org/search/all/chi/
 ,,,,,Sena,https://www.accessagriculture.org/search/all/seh/
 ,,,,,Tumbuka,https://www.accessagriculture.org/search/all/tum/
 ,,,,,Yao,https://www.accessagriculture.org/search/all/yao/
-Malaysia,4.210484,101.975766,MY,,English,https://www.accessagriculture.org/search/all/en/
-Mali,17.570692,-3.996166,ML,,French,https://www.accessagriculture.org/search/all/fr/
+Malaysia,4.210484,101.975766,MY,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Mali,17.570692,-3.996166,ML,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/320px-Flag_of_Mali.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Bomu (Bobo),https://www.accessagriculture.org/search/all/bmu/
 ,,,,,Dioula,https://www.accessagriculture.org/search/all/dla/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Mauritania,21.00789,-10.940835,MR,,French,https://www.accessagriculture.org/search/all/fr/
+Mauritania,21.00789,-10.940835,MR,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/320px-Flag_of_Mauritania.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Wolof,https://www.accessagriculture.org/search/all/wo/
-Mauritius,-20.348404,57.552152,MU,,English,https://www.accessagriculture.org/search/all/en/
+Mauritius,-20.348404,57.552152,MU,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/320px-Flag_of_Mauritius.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,French,https://www.accessagriculture.org/search/all/fr/
-Mexico,23.634501,-102.552784,MX,,Spanish,https://www.accessagriculture.org/search/all/es/
-Morocco,31.791702,-7.09262,MA,,French,https://www.accessagriculture.org/search/all/fr/
+Mexico,23.634501,-102.552784,MX,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Morocco,31.791702,-7.09262,MA,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/320px-Flag_of_Morocco.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Mozambique,-18.665695,35.529562,MZ,,Chichewa,https://www.accessagriculture.org/search/all/chi/
+Mozambique,-18.665695,35.529562,MZ,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/320px-Flag_of_Mozambique.svg.png,Chichewa,https://www.accessagriculture.org/search/all/chi/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
 ,,,,,Nyanja,https://www.accessagriculture.org/search/all/ny/
 ,,,,,Portuguese,https://www.accessagriculture.org/search/all/pt/
 ,,,,,Sena,https://www.accessagriculture.org/search/all/seh/
 ,,,,,Yao,https://www.accessagriculture.org/search/all/yao/
-Myanmar,21.913965,95.956223,MM,,Burmese,https://www.accessagriculture.org/search/all/my/
-Namibia,-22.95764,18.49041,NA,,English,https://www.accessagriculture.org/search/all/en/
-Nepal,28.394857,84.124008,NP,,Nepali,https://www.accessagriculture.org/search/all/ne/
-Nicaragua,12.865416,-85.207229,NI,,Spanish,https://www.accessagriculture.org/search/all/es/
-Niger,17.607789,8.081666,NE,,French,https://www.accessagriculture.org/search/all/fr/
+Myanmar,21.913965,95.956223,MM,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/320px-Flag_of_Myanmar.svg.png,Burmese,https://www.accessagriculture.org/search/all/my/
+Namibia,-22.95764,18.49041,NA,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/320px-Flag_of_Namibia.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Nepal,28.394857,84.124008,NP,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/197px-Flag_of_Nepal.svg.png,Nepali,https://www.accessagriculture.org/search/all/ne/
+Nicaragua,12.865416,-85.207229,NI,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/320px-Flag_of_Nicaragua.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Niger,17.607789,8.081666,NE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/280px-Flag_of_Niger.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Adioukrou,https://www.accessagriculture.org/search/all/adi/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Gourmantche,https://www.accessagriculture.org/search/all/gmt/
 ,,,,,Hausa,https://www.accessagriculture.org/search/all/ha/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Zarma,https://www.accessagriculture.org/search/all/zrm/
-Nigeria,9.081999,8.675277,NG,,English,https://www.accessagriculture.org/search/all/en/
+Nigeria,9.081999,8.675277,NG,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/320px-Flag_of_Nigeria.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Bariba,https://www.accessagriculture.org/search/all/brb/
 ,,,,,Hausa,https://www.accessagriculture.org/search/all/ha/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Yoruba,https://www.accessagriculture.org/search/all/yo/
 ,,,,,Zarma,https://www.accessagriculture.org/search/all/zrm/
-Oman,21.512583,55.923255,OM,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Pakistan,30.375321,69.345116,PK,,Arabic,https://www.accessagriculture.org/search/all/ar/
+Oman,21.512583,55.923255,OM,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/320px-Flag_of_Oman.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Pakistan,30.375321,69.345116,PK,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/320px-Flag_of_Pakistan.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Urdu,https://www.accessagriculture.org/search/all/ur/
-Palestine,31.947351,35.227163,PS,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Panama,8.537981,-80.782127,PA,,Spanish,https://www.accessagriculture.org/search/all/es/
-Papua New Guinea,-6.314993,143.95555,PG,,English,https://www.accessagriculture.org/search/all/en/
-Paraguay,-23.442503,-58.443832,PY,,Spanish,https://www.accessagriculture.org/search/all/es/
-Peru,-9.189967,-75.015152,PE,,Spanish,https://www.accessagriculture.org/search/all/es/
+Palestine,31.947351,35.227163,PS,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Panama,8.537981,-80.782127,PA,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/320px-Flag_of_Panama.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Papua New Guinea,-6.314993,143.95555,PG,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/320px-Flag_of_Papua_New_Guinea.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Paraguay,-23.442503,-58.443832,PY,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Peru,-9.189967,-75.015152,PE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
 ,,,,,Aymara,https://www.accessagriculture.org/search/all/ay/
 ,,,,,Quechua,https://www.accessagriculture.org/search/all/qu/
-Philippines,12.879721,121.774017,PH,,English,https://www.accessagriculture.org/search/all/en/
-Puerto Rico,18.220833,-66.590149,PR,,Spanish,https://www.accessagriculture.org/search/all/es/
-Qatar,25.354826,51.183884,QA,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Rwanda,-1.940278,29.873888,RW,,English,https://www.accessagriculture.org/search/all/en/
+Philippines,12.879721,121.774017,PH,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/320px-Flag_of_the_Philippines.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Puerto Rico,18.220833,-66.590149,PR,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/320px-Flag_of_Puerto_Rico.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Qatar,25.354826,51.183884,QA,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/320px-Flag_of_Qatar.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Rwanda,-1.940278,29.873888,RW,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/320px-Flag_of_Rwanda.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
 ,,,,,Kinyarwanda,https://www.accessagriculture.org/search/all/rw/
-Saudi Arabia,23.885942,45.079162,SA,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Senegal,14.497401,-14.452362,SN,,French,https://www.accessagriculture.org/search/all/fr/
+Saudi Arabia,23.885942,45.079162,SA,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/320px-Flag_of_Saudi_Arabia.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Senegal,14.497401,-14.452362,SN,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/320px-Flag_of_Senegal.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Bambara,https://www.accessagriculture.org/search/all/bm/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
 ,,,,,Wolof,https://www.accessagriculture.org/search/all/wo/
-Sierra Leone,8.460555,-11.779889,SL,,English,https://www.accessagriculture.org/search/all/en/
+Sierra Leone,8.460555,-11.779889,SL,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/320px-Flag_of_Sierra_Leone.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Bassa,https://www.accessagriculture.org/search/all/bsq/
 ,,,,,Krio,https://www.accessagriculture.org/search/all/kri/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Somalia,5.152149,46.199616,SO,,English,https://www.accessagriculture.org/search/all/en/
+Somalia,5.152149,46.199616,SO,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/320px-Flag_of_Somalia.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
-Somaliland,9.7177472,43.555916,SOM,,English,https://www.accessagriculture.org/search/all/en/
+Somaliland,9.7177472,43.555916,SOM,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/320px-Flag_of_Somaliland.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-South Africa,-30.559482,22.937506,ZA,,English,https://www.accessagriculture.org/search/all/en/
-South Sudan,7.8626845,29.6949232,SS,,English,https://www.accessagriculture.org/search/all/en/
+South Africa,-30.559482,22.937506,ZA,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/320px-Flag_of_South_Africa.svg.png,English,https://www.accessagriculture.org/search/all/en/
+South Sudan,7.8626845,29.6949232,SS,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/320px-Flag_of_South_Sudan.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Dholuo,https://www.accessagriculture.org/search/all/dho/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
-Sri Lanka,7.873054,80.771797,LK,,English,https://www.accessagriculture.org/search/all/en/
+Sri Lanka,7.873054,80.771797,LK,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/320px-Flag_of_Sri_Lanka.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Tamil,http://www.accessagriculture.org/search/all/ta/
-Sudan,12.862807,30.217636,SD,,English,https://www.accessagriculture.org/search/all/en/
+Sudan,12.862807,30.217636,SD,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/320px-Flag_of_Sudan.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Suriname,3.919305,-56.027783,SR,,English,https://www.accessagriculture.org/search/all/en/
-Swaziland,-26.522503,31.465866,SZ,,English,https://www.accessagriculture.org/search/all/en/
-Syria,34.802075,38.996815,SY,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Tajikistan,38.861034,71.276093,TJ,,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
-Tanzania,-6.369028,34.888822,TZ,,English,https://www.accessagriculture.org/search/all/en/
+Suriname,3.919305,-56.027783,SR,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/320px-Flag_of_Suriname.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Swaziland,-26.522503,31.465866,SZ,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/320px-Flag_of_Eswatini.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Syria,34.802075,38.996815,SY,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/320px-Flag_of_Syria.svg.png,Arabic,https://www.accessagriculture.org/search/all/ar/
+Tajikistan,38.861034,71.276093,TJ,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/320px-Flag_of_Tajikistan.svg.png,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
+Tanzania,-6.369028,34.888822,TZ,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/320px-Flag_of_Tanzania.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Dholuo,https://www.accessagriculture.org/search/all/dho/
 ,,,,,Kiswahili,https://www.accessagriculture.org/search/all/kwl/
 ,,,,,Tumbuka,https://www.accessagriculture.org/search/all/tum/
-Thailand,15.870032,100.992541,TH,,Lao,https://www.accessagriculture.org/search/all/lo/
+Thailand,15.870032,100.992541,TH,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/320px-Flag_of_Thailand.svg.png,Lao,https://www.accessagriculture.org/search/all/lo/
 ,,,,,Thai,https://www.accessagriculture.org/search/all/th/
-Togo,8.619543,0.824782,TG,,French,https://www.accessagriculture.org/search/all/fr/
+Togo,8.619543,0.824782,TG,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/320px-Flag_of_Togo.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Ewe,https://www.accessagriculture.org/search/all/ewe/
 ,,,,,Ife,https://www.accessagriculture.org/search/all/ife/
 ,,,,,Kaby¨¦,https://www.accessagriculture.org/search/all/kby/
 ,,,,,Moba,https://www.accessagriculture.org/search/all/mba/
 ,,,,,Peulh (Fulfuld¨¦),https://www.accessagriculture.org/search/all/pfd/
-Trinidad and Tobago,10.691803,-61.222503,TT,,English,https://www.accessagriculture.org/search/all/en/
-Tunisia,33.886917,9.537499,TN,,French,https://www.accessagriculture.org/search/all/fr/
+Trinidad and Tobago,10.691803,-61.222503,TT,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/320px-Flag_of_Trinidad_and_Tobago.svg.png,English,https://www.accessagriculture.org/search/all/en/
+Tunisia,33.886917,9.537499,TN,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/320px-Flag_of_Tunisia.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Uganda,1.373333,32.290275,UG,,English,https://www.accessagriculture.org/search/all/en/
+Uganda,1.373333,32.290275,UG,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/320px-Flag_of_Uganda.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
 ,,,,,Ateso,https://www.accessagriculture.org/search/all/ats/
 ,,,,,Kalenjin,https://www.accessagriculture.org/search/all/sgc/
@@ -283,22 +283,22 @@ Uganda,1.373333,32.290275,UG,,English,https://www.accessagriculture.org/search/a
 ,,,,,Lugbara,https://www.accessagriculture.org/search/all/lbr/
 ,,,,,Luo (Uganda),https://www.accessagriculture.org/search/all/luo/
 ,,,,,Runyakitara,https://www.accessagriculture.org/search/all/rkt/
-United Arab Emirates,23.424076,53.847818,AE,,English,https://www.accessagriculture.org/search/all/en/
+United Arab Emirates,23.424076,53.847818,AE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/320px-Flag_of_the_United_Arab_Emirates.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Uruguay,-32.522779,-55.765835,UY,,Spanish,https://www.accessagriculture.org/search/all/es/
-Uzbekistan,41.377491,64.585262,UZ,,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
-Vanuatu,-15.376706,166.959158,VU,,English,https://www.accessagriculture.org/search/all/en/
+Uruguay,-32.522779,-55.765835,UY,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Uzbekistan,41.377491,64.585262,UZ,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/320px-Flag_of_Uzbekistan.svg.png,Persian (Farsi),https://www.accessagriculture.org/search/all/fa/
+Vanuatu,-15.376706,166.959158,VU,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/320px-Flag_of_Vanuatu.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,French,https://www.accessagriculture.org/search/all/fr/
-Venezuela,6.42375,-66.58973,VE,,Spanish,https://www.accessagriculture.org/search/all/es/
-Vietnam,14.058324,108.277199,VN,,Vietnamese,https://www.accessagriculture.org/search/all/vi/
-Western Sahara,24.215527,-12.885834,EH,,French,https://www.accessagriculture.org/search/all/fr/
+Venezuela,6.42375,-66.58973,VE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png,Spanish,https://www.accessagriculture.org/search/all/es/
+Vietnam,14.058324,108.277199,VN,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/320px-Flag_of_Vietnam.svg.png,Vietnamese,https://www.accessagriculture.org/search/all/vi/
+Western Sahara,24.215527,-12.885834,EH,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/320px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Yemen,15.552727,48.516388,YE,,French,https://www.accessagriculture.org/search/all/fr/
+Yemen,15.552727,48.516388,YE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/320px-Flag_of_Yemen.svg.png,French,https://www.accessagriculture.org/search/all/fr/
 ,,,,,Arabic,https://www.accessagriculture.org/search/all/ar/
-Zambia,-13.133897,27.849332,ZM,,English,https://www.accessagriculture.org/search/all/en/
+Zambia,-13.133897,27.849332,ZM,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/320px-Flag_of_Zambia.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Bemba,https://www.accessagriculture.org/search/all/bem/
 ,,,,,Nyanja (Chichewa),https://www.accessagriculture.org/search/all/chi/
 ,,,,,Tumbuka,https://www.accessagriculture.org/search/all/tum/
 ,,,,,Yao,https://www.accessagriculture.org/search/all/yao/
-Zimbabwe,-19.015438,29.154857,ZW,,English,https://www.accessagriculture.org/search/all/en/
+Zimbabwe,-19.015438,29.154857,ZW,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/320px-Flag_of_Zimbabwe.svg.png,English,https://www.accessagriculture.org/search/all/en/
 ,,,,,Chichewa,https://www.accessagriculture.org/search/all/chi/

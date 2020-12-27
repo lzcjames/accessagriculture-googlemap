@@ -58,12 +58,12 @@
           #listlanguages li{
             position: relative;
             display: block;
-            padding: .4em .4em .4em 2em;
+            padding: .4em .4em .4em 3em;
             margin: .5em 0;
             background: #ddd;
             color: #444;
             text-decoration: none;
-            border-radius: .3em;
+            border-radius: 0.5em;
             transition: all .3s ease-out;
           }
 
@@ -79,7 +79,7 @@
             content: counter(li);
             counter-increment: li;
             position: absolute;
-            left: -0.8em;
+            left: -0.2em;
             top: 50%;
             margin-top: -1.3em;
             background: #b4d037;
@@ -94,6 +94,19 @@
           }
 
           /* custom infowindow of google map*/
+          #infowindow-title{
+            width: 100%;
+            display: flex;
+            align-items: center;
+          }
+
+          #infowindow-title img{
+            float: right;
+            padding-left: 3%;
+            width: 45px;
+            height: 25px;
+          }
+
           .gm-style-iw.gm-style-iw-c{
             padding: 12px !important;
             opacity:0.7;
